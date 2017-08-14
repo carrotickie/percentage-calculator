@@ -1,0 +1,64 @@
+body {
+    font-family: 'Nunito', sans-serif;
+/*     font-family: "proxima-nova-soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;*/
+/*    font-family: "Lato", "Helvetica", Helvetica, sans-serif;*/
+    background: #F8F9F9;
+    padding: 10px;
+    color: #1C2833;
+}
+
+
+
+p {
+    margin: 4px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+.choose {
+    color: 
+    
+}
+#dropdownMenu {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1em;
+    background-color: 
+        #E8F8F5;
+}
+
+#calculator {
+    padding: 10p
+}
+
+.answerBox {
+    border: 1px solid #E8DAEF;
+    background: #fff;
+    margin: 10px 0px;
+    padding: 10px;
+    
+}
+
+
+.ans {
+    margin: 10px 0px;
+}
+
+#resultField1 {
+    color: #5D6D7E;
+}
+
+input[type='submit'] {
+    border-radius: 8px;
+    padding: 8px 20px;;
+    background-color: #E8DAEF;
+    font-size: 1em;
+    color: #2C3E50;
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px #F8F9F9;   
+}
+
+#decimalPlace {
+    width: 20px;
+}
